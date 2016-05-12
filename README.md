@@ -1,4 +1,4 @@
-I am currectly developing a supervised learning Sentiment Analysis(using Python) for dissertation. All works will be available for public very soon.
+I am currectly developing a supervised learning Sentiment Analysis(using Python) for dissertation. All works will be available soon.
 
 -Collect labelled and unlabelled tweets
 
