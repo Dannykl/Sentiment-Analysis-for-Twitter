@@ -88,7 +88,7 @@ class Sentiment(object):
         return replaceContraction(testList)
     
     def dataFromTwitter():        
-        fileLocation = 'retrievedWithDuplicate.csv'
+        fileLocation = ''
         CONSUMER_KEY = ''
         CONSUMER_SECRET =  '' 
         language = 'en' #language of the tweets
